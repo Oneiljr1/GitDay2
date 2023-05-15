@@ -7,4 +7,7 @@ public class ContactPage {
     //Instagram
     //Whatsapp
     //Tiktok
+
+    //Youtube
+    //Gmail
 }
