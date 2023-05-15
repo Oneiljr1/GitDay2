@@ -6,4 +6,8 @@ public class HomePage {
 
     // new menu
 
+    // adding more thing
+
+    //more things
+
 }
